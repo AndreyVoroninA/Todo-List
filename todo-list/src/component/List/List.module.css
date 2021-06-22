@@ -1,0 +1,16 @@
+.button {
+   width: 100px;
+   height: 30px;
+   border: 2px solid rgb(201, 31, 19);
+   background-color:  #fff;
+   border-radius: 20px;
+   margin: 0 10px;
+  display: inline-block;
+}
+.text {
+  font-size: 18px; 
+  display: inline-block;
+}
+.place {
+   margin: 10px 5px;
+}
